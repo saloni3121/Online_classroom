@@ -19,8 +19,8 @@
   }
   
   .card-custom-img {
-    height: 120px;
-    min-height: 187px;
+    height: 200px;
+    min-height: 200px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -56,12 +56,11 @@
     width: 100px;
     height: 100px;
   }
-  
   .buttoncreate{
-      background-color: #548362;
+      background-color: #5d8168;
       color: #fff;
       padding: 3px 3px;
       font-size: 18px;
-      margin-right: 20px;
+      margin-right: 10px;
       /* box-shadow: none; */
   }

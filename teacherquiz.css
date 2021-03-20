@@ -3,6 +3,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* overflow-y: hidden; */
+    /* position: fixed; */
   }
   
   body {
@@ -64,3 +66,16 @@
       margin-right: 10px;
       /* box-shadow: none; */
   }
+  .footer_bottom {
+    background: #3c5344ee;
+    padding: 15px 0;
+}
+
+.footer_bottom p.crp {
+    float: left;
+    margin: 0;
+    color: #fff;
+    font-size: 15px;
+    width: 100%;
+    text-align: center;
+}
